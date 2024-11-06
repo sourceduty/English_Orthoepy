@@ -27,6 +27,9 @@ Here are some key points on how orthoepy is applied to country names globally:
 In summary, orthoepy in the context of country names involves a complex interplay of linguistic, cultural, and historical factors that influence how these names are pronounced around the world. Efforts to standardize pronunciation aim to respect local norms while promoting mutual understanding in global communication.
 
 #
+![Blank Meme](https://github.com/user-attachments/assets/a5d357cb-657d-4374-9b93-4d138ee82636)
+
+#
 ### Related Links
 
 [Onomatopoeia](https://chat.openai.com/g/g-JEHdIpJiN-onomatopoeia)
